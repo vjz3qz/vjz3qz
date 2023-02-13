@@ -1,6 +1,6 @@
 <h3> About Me</h3>
 
-- 👋 Hi, I’m Varun and I'm a second-year student at the University of Virginia studying Computer Science.
+- 👋 Hi, I’m Varun and I'm a second-year student at the University of Virginia studying Computer Science
 - 👀 I’m interested in: Software Development, Machine Learning, Computational Biology
 - 🌱 I’m currently learning: ```Data Structures & Algorithms```
 - 📫 How to reach me: vjz3qz@virginia.edu
