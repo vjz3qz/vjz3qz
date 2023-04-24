@@ -12,15 +12,18 @@ I'm a second-year student at the University of Virginia studying Computer Scienc
 
 Here are a few of the projects I've worked on:
 
-- [Leftover Link](https://github.com/vjz3qz/leftover-link): A full-stack application that connects restaurants with leftover food to nearby homeless shelters and assisted living homes.
+- [Leftover Link](https://github.com/vjz3qz/server): A full-stack application that connects restaurants with leftover food to nearby homeless shelters and assisted living homes.
 - [Brick Breaker](https://github.com/vjz3qz/brick-breaker): A recreation of the classic game in Java, with a test-driven development approach using JUnit.
+
+<!---
 - [Personal Website](https://github.com/vjz3qz/personal-website): My personal website built with React.js and hosted on AWS Amplify.
+--->
 
 ## Contributions
 
 I'm always looking for ways to contribute to open source projects and collaborate with others in the tech community. Here are some of the projects I've contributed to:
 
-- [CARS Access Control]([https://github.com/freeCodeCamp/freeCodeCamp](https://gitlab.com/charlottesville-albemarle-rescue-squad/carsac)): An RFID badge scanning access control system. 
+- [CARS Access Control](https://gitlab.com/charlottesville-albemarle-rescue-squad/carsac): An RFID badge scanning access control system. 
 
 ## Skills
 
