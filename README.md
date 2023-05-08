@@ -8,6 +8,8 @@ I'm a second-year student at the University of Virginia studying Computer Scienc
 - 🤝 I'm looking to collaborate on projects that use technology to make a positive impact on society and the world around us.
 - 📫 You can reach me at vjz3qz@virginia.edu.
 
+<!---
+
 ## Projects
 
 Here are a few of the projects I've worked on:
@@ -15,9 +17,9 @@ Here are a few of the projects I've worked on:
 - [Leftover Link](https://github.com/vjz3qz/server): A full-stack application that connects restaurants with leftover food to nearby homeless shelters and assisted living homes.
 - [Brick Breaker](https://github.com/vjz3qz/brick-breaker): A recreation of the classic game in Java, with a test-driven development approach using JUnit.
 
-<!---
+
 - [Personal Website](https://github.com/vjz3qz/personal-website): My personal website built with React.js and hosted on AWS Amplify.
---->
+
 
 ## Contributions
 
@@ -33,6 +35,8 @@ Here are some of the programming languages, frameworks, and tools I'm proficient
 - **Frameworks & Libraries:** React.js, Node.js, Express.js, pandas, JUnit, jQuery, NumPy, Bootstrap, Apache POI, Mockito, .NET
 - **Developer Tools:** Git, VS Code, IntelliJ, Jupyter, PyCharm, AWS Amplify, MATLAB, MS Office
 - **Database Tools:** MongoDB, SQLite
+
+--->
 
 Thanks for visiting my profile! I'm always looking for new opportunities to learn, collaborate, and make an impact, so feel free to reach out if you'd like to connect.
 
