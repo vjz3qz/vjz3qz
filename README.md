@@ -1,9 +1,9 @@
 # Hello, I'm Varun!
 
-I'm a second-year student at the University of Virginia studying Computer Science. Welcome to my GitHub profile! Here's a bit more about me:
+I'm a third-year student at the University of Virginia studying Computer Science. Welcome to my GitHub profile! Here's a bit more about me:
 
 - 👀 I'm interested in: Software Development, Machine Learning, Artificial Intelligence, and Computational Biology
-- 🌱 I'm currently learning: ```Data Structures & Algorithms```, ```Computer Systems & Organization```, and ```Software Development Essentials```
+- 🌱 I'm currently learning: ```Computer Systems & Organization```, ```Advanced Software Development```, and ```Machine Learning```
 - 💻 I have experience with: Java, Python, JavaScript, C/C++, HTML/CSS, and Bash, as well as frameworks and libraries like React.js, Node.js, Express.js, and pandas.
 - 🤝 I'm looking to collaborate on projects that use technology to make a positive impact on society and the world around us.
 - 📫 You can reach me at vjz3qz@virginia.edu.
