@@ -1,3 +1,5 @@
+<!---
+
 # Hello, I'm Varun!
 
 I'm a third-year student at the University of Virginia studying Computer Science. Welcome to my GitHub profile! Here's a bit more about me:
@@ -7,6 +9,30 @@ I'm a third-year student at the University of Virginia studying Computer Science
 - 💻 I have experience with: Java, Python, JavaScript, C/C++, HTML/CSS, and Bash, as well as frameworks and libraries like React.js, Node.js, Express.js, and pandas.
 - 🤝 I'm looking to collaborate on projects that use technology to make a positive impact on society and the world around us.
 - 📫 You can reach me at vjz3qz@virginia.edu.
+
+Thanks for visiting my profile! I'm always looking for new opportunities to learn, collaborate, and make an impact, so feel free to reach out if you'd like to connect.
+--->
+
+# Hi, I'm Varun 👋
+
+Third-year Computer Science student at the University of Virginia passionate about leveraging tech for positive change. I'm experienced in Java, Python, JavaScript, C/C++, HTML/CSS, and more. Currently, I'm exploring Advanced Software Development and Machine Learning.
+
+## Experience 🚀
+
+- **Software Engineering & Data Intern** at Freddie Mac. Led the development of automation tools, contributed to data privacy, and worked on cloud-based document transfer solutions.
+- **Software Engineering Intern** at Charlottesville-Albemarle Rescue Squad. Developed a database manager app and optimized a distributed software security system.
+- **Undergraduate Research Assistant** at UVA's Computational Systems Biology Lab. Developed predictive ML models and worked with high-performance computing.
+
+## Projects 🛠️
+
+- **Leftover Link** - Web app connecting restaurants and homeless shelters for food donations.
+- **Brick Breaker** - Java-based GUI application replicating the classic Brick Breaker game.
+- **Course Reviews System** - Secure Java-based system for course reviews.
+- **Command-line Socket Chat** - Command-line chat program developed in C.
+
+You can reach me at vjz3qz@virginia.edu. Always looking for opportunities to learn and make an impact!
+
+
 
 <!---
 
@@ -37,8 +63,6 @@ Here are some of the programming languages, frameworks, and tools I'm proficient
 - **Database Tools:** MongoDB, SQLite
 
 --->
-
-Thanks for visiting my profile! I'm always looking for new opportunities to learn, collaborate, and make an impact, so feel free to reach out if you'd like to connect.
 
 
 
