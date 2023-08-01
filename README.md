@@ -11,9 +11,10 @@ I'm a third-year student at the University of Virginia studying Computer Science
 - 📫 You can reach me at vjz3qz@virginia.edu.
 
 Thanks for visiting my profile! I'm always looking for new opportunities to learn, collaborate, and make an impact, so feel free to reach out if you'd like to connect.
+👋
 --->
 
-# Hey, I'm Varun 👋
+# Hey, I'm Varun.
 
 Third-year Computer Science student at the University of Virginia passionate about leveraging tech for positive change. I'm experienced in Java, Python, JavaScript, C/C++, HTML/CSS, and more. Currently, I'm exploring Advanced Software Development and Machine Learning.
 
