@@ -19,7 +19,7 @@ Third-year Computer Science student at the University of Virginia passionate abo
 
 ## Experience 🚀
 
-- **Software Engineering & Data Intern** at Freddie Mac. Led the development of automation tools, contributed to data privacy, and designed/pitched on a cloud-based document transfer solution.
+- **Software Engineering & Data Intern** at Freddie Mac. Led the development of a python automation tool, contributed to the data privacy framework, and designed/pitched on a cloud-based document exfiltration prevention solution.
 - **Software Engineering Intern** at Charlottesville-Albemarle Rescue Squad. Developed a database manager app and optimized a distributed software security system.
 - **Undergraduate Research Assistant** at UVA's Computational Systems Biology Lab. Developed predictive ML models and worked with high-performance computing.
 
