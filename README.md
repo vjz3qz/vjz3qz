@@ -15,17 +15,6 @@ Thanks for visiting my profile! I'm always looking for new opportunities to lear
 --->
 
 
-
-
-
-Engineered a streamlined data comparison application employing Object-Oriented Design principles, optimizing
-data filtering and slashing manual processing by 20+ hours monthly. Leveraged Python and pandas for robust
-data-handling and Tableau for dynamic data visualization.
-• Defined and implemented data privacy roles within Collibra, supporting internal audit initiatives, ensuring secure
-authorization for handling and protecting sensitive data across all enterprise divisions.
-• Collaborated in an Agile Scrum team of interns in pitching a secured document viewing/editing software to combat
-data exfiltration. Designed an AWS cloud services (EC2, S3, Lambda) architecture to streamline processes
-
 # Hey, I'm Varun.
 
 I'm a third-year Computer Science student at the University of Virginia passionate about leveraging tech for positive change. I'm experienced in Java, Python, JavaScript, C/C++, HTML/CSS, and more. Currently, I'm exploring Advanced Software Development and Machine Learning.
