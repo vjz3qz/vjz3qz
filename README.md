@@ -27,16 +27,21 @@ I'm a third-year Computer Science student at the University of Virginia passiona
 
 ## Projects 🛠️
 
+- **DefibRadar** - Mobile app routing users to the AED nearest to them with turn-by-turn navigation.
 - **Leftover Link** - Web app connecting restaurants and homeless shelters for food donations.
-- **Brick Breaker** - Java-based GUI application replicating the classic Brick Breaker game.
-- **Course Reviews System** - Secure Java-based system for course reviews.
-- **Command-line Socket Chat** - Command-line chat program developed in C.
+- **RateMyUVACourse** - Secure Java-based system for course reviews.
+- And many more you can check out on my profile.
 
 You can reach me at vjz3qz@virginia.edu. Always looking for opportunities to learn and make an impact!
 
 
 
 <!---
+
+
+- **Brick Breaker** - Java-based GUI application replicating the classic Brick Breaker game.
+- **Course Reviews System** - Secure Java-based system for course reviews.
+- **Command-line Socket Chat** - Command-line chat program developed in C.
 
 ## Projects
 
