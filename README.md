@@ -17,7 +17,7 @@ Thanks for visiting my profile! I'm always looking for new opportunities to lear
 
 # Hey, I'm Varun.
 
-I'm a third-year Computer Science student at the University of Virginia passionate about leveraging tech for positive change. I'm experienced in Java, Python, JavaScript, C/C++, HTML/CSS, and more. Currently, I'm exploring Advanced Software Development and Machine Learning.
+I'm a third-year Computer Science student at the University of Virginia passionate about leveraging tech for positive change. I'm experienced in Java, Python, JavaScript, and more. Currently, I'm exploring Advanced Software Development and Machine Learning.
 
 ## Experience 🚀
 
