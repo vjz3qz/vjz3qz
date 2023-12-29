@@ -15,21 +15,21 @@ Thanks for visiting my profile! I'm always looking for new opportunities to lear
 --->
 
 
-# Hey, I'm Varun.
+# About Me 👋
 
-I'm a third-year Computer Science student at the University of Virginia passionate about leveraging tech for positive change. I'm experienced in Java, Python, JavaScript, and more. Currently, I'm exploring Advanced Software Development and Machine Learning.
+I'm a Computer Science student and Machine Learning researcher at the University of Virginia passionate about leveraging tech for positive change. I'm experienced in building web applications, developing embedded systems, training predictive/generative machine learning models. Currently, I'm exploring AI and software applied to core industries like energy, manufacturing, and defense.
 
 ## Experience 🚀
 
-- **Software Engineering & Data Intern** at Freddie Mac. Led the development of a python automation tool, contributed to the data privacy framework, and designed/pitched on a cloud-based document exfiltration prevention solution.
-- **Software Engineering Intern** at Charlottesville-Albemarle Rescue Squad. Developed a database manager app and optimized a distributed software security system.
-- **Undergraduate Research Assistant** at UVA's Computational Systems Biology Lab. Developed predictive ML models and worked with high-performance computing.
+- **Founding Engineer** at Trace AI. Building AI tools for engineers and operators in industrial facilities.
+- **Software Engineer** at Charlottesville-Albemarle Rescue Squad. Developed a database manager app and optimized a distributed software security system.
+- **Machine Learing Researchert** at UVA's Computational Systems Biology Lab. Developed predictive ML models and worked with high-performance computing.
+- **Software Engineering Intern** at Freddie Mac. Led the development of a python automation tool, contributed to the data privacy framework, and designed/pitched on a cloud-based document exfiltration prevention solution.
 
 ## Projects 🛠️
 
 - **DefibRadar** - Mobile app routing users to the AED nearest to them with turn-by-turn navigation.
 - **Leftover Link** - Web app connecting restaurants and homeless shelters for food donations.
-- **RateMyUVACourse** - Secure Java-based system for course reviews.
 - And many more you can check out on my profile.
 
 You can reach me at vjz3qz@virginia.edu. Always looking for opportunities to learn and make an impact!
