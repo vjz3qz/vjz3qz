@@ -23,7 +23,7 @@ I'm a Computer Science student and Machine Learning researcher at the University
 
 - **Founding Engineer** at Trace AI. Building AI tools for engineers and operators in industrial facilities.
 - **Software Engineer** at Charlottesville-Albemarle Rescue Squad. Developed a database manager app and optimized a distributed software security system.
-- **Machine Learing Researchert** at UVA's Computational Systems Biology Lab. Developed predictive ML models and worked with high-performance computing.
+- **Machine Learing Researcher** at UVA's Computational Systems Biology Lab. Developed predictive ML models and worked with high-performance computing.
 - **Software Engineering Intern** at Freddie Mac. Led the development of a python automation tool, contributed to the data privacy framework, and designed/pitched on a cloud-based document exfiltration prevention solution.
 
 ## Projects 🛠️
