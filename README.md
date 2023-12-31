@@ -17,12 +17,12 @@ Thanks for visiting my profile! I'm always looking for new opportunities to lear
 
 # About Me 👋
 
-I'm a Computer Science student and Machine Learning researcher at the University of Virginia passionate about leveraging tech for positive change. I'm experienced in building web applications, developing embedded systems, training predictive/generative machine learning models. Currently, I'm exploring AI and software applied to core industries like energy, manufacturing, and defense.
+I'm a Computer Science student and Machine Learning researcher at the University of Virginia passionate about leveraging tech for positive change. I'm experienced in building scalable web applications, developing embedded systems, training predictive/generative machine learning models. Currently, I'm exploring AI and software applied to core industries like energy, manufacturing, and defense.
 
 ## Experience 🚀
 
 - **Founding Engineer** at Trace AI. Building AI tools for engineers and operators in industrial facilities.
-- **Software Engineer** at Charlottesville-Albemarle Rescue Squad. Developed a database manager app and optimized a distributed software security system.
+- **Software Engineer** at Charlottesville-Albemarle Rescue Squad. Developed a database manager app and optimized an embedded software security system.
 - **Machine Learing Researcher** at UVA's Computational Systems Biology Lab. Developed predictive ML models for cancer on high-performance computing systems.
 - **Software Engineering Intern** at Freddie Mac. Led the development of a python automation tool, contributed to the data privacy framework, and designed/pitched on a cloud-based document exfiltration prevention solution.
 
