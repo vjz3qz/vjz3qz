@@ -12,19 +12,37 @@ I'm a third-year student at the University of Virginia studying Computer Science
 
 Thanks for visiting my profile! I'm always looking for new opportunities to learn, collaborate, and make an impact, so feel free to reach out if you'd like to connect.
 👋
+
+
+<a href="">
+  <img align="left" alt="Varun's GoogleScholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
+</a>
+
+
+[<img align="right" width="400" alt="Varun's dynamically generated GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vjz3qz&show_icons=true&title_color=598432&icon_color=94AE16&bg_color=ffffff&border_color=598432&text_color=173552"/>](https://github.com/vjz3qz/)
 --->
 
 
 # About Me 👋
 
-I'm a Computer Science student and Machine Learning researcher at the University of Virginia passionate about leveraging tech for positive change. I'm experienced in building scalable web applications, developing embedded systems, training predictive/generative machine learning models. Currently, I'm exploring AI and software applied to core industries like energy, manufacturing, and defense.
+<a href="https://github.com/vjz3qz">
+  <img align="left" alt="Varun's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.linkedin.com/in/varunpasupuleti/">
+  <img align="left" alt="Varun's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br/><br/>
+
+I'm a Computer Science student and Machine Learning researcher at the University of Virginia passionate about leveraging tech for positive change. I'm experienced in building scalable web applications, developing embedded systems, training predictive/generative machine learning models. Currently, I'm exploring AI and software applied towards healthcare and sustainability.
 
 ## Experience 🚀
 
-- **Founding Software Engineer** at Trace AI. Building AI tools for engineers and operators in industrial facilities.
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjz3qz&layout=compact&langs_count=10&title_color=325784&icon_color=94AE16&bg_color=ffffff&border_color=325784&text_color=173552" />
+
+- **Founding Software Engineer** at Trace AI. Building AI tools for doctors.
 - **Software Engineering Intern** at Charlottesville-Albemarle Rescue Squad. Developed a database manager app and optimized an embedded software security system.
 - **Machine Learing Researcher** at UVA's Computational Systems Biology Lab. Developed predictive ML models for cancer on high-performance computing systems.
-- **Software Engineering Intern** at Freddie Mac. Led the development of a python automation tool, contributed to the data privacy framework, and designed/pitched on a cloud-based document exfiltration prevention solution.
+- **Software Engineering Intern** at Freddie Mac. Built a python automation tool, contributed to the data privacy framework, and designed a cloud-based document management solution.
 
 ## Projects 🛠️
 
