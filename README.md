@@ -47,6 +47,7 @@ I'm a Computer Science student, Machine Learning Researcher, and Founder at the 
 
 ## Projects 🛠️
 
+- **Lingo** - Web app teaching users the language they are trying to learn through conversations with AI.
 - **DefibRadar** - Mobile app routing users to the AED nearest to them with turn-by-turn navigation.
 - **Leftover Link** - Web app connecting restaurants and homeless shelters for food donations.
 - And many more you can check out on my profile.
