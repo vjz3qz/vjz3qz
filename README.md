@@ -25,19 +25,10 @@ Thanks for visiting my profile! I'm always looking for new opportunities to lear
 
 # About Me 👋
 
-<a href="https://github.com/vjz3qz">
-  <img align="left" alt="Varun's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.linkedin.com/in/varunpasupuleti/">
-  <img align="left" alt="Varun's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<br/><br/>
-
 I'm a Computer Science student, Machine Learning Researcher, and Founder at the University of Virginia passionate about leveraging tech for positive change. I'm experienced in building scalable web applications, developing embedded systems, training predictive/generative machine learning models. Currently, I'm exploring AI and software applied towards real-world problems.
 
 ## Experience 🚀
 
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjz3qz&layout=compact&langs_count=10&title_color=325784&icon_color=94AE16&bg_color=ffffff&border_color=325784&text_color=173552" />
 
 - **Co-Founder** at Trace AI. Building AI tools for government contractors.
 - **Software Engineer** at Bronco AI. Building AI tools for industry.
@@ -57,6 +48,15 @@ You can reach me at vjz3qz@virginia.edu. Always looking for opportunities to lea
 
 
 <!---
+
+<a href="https://github.com/vjz3qz">
+  <img align="left" alt="Varun's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.linkedin.com/in/varunpasupuleti/">
+  <img align="left" alt="Varun's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br/><br/>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjz3qz&layout=compact&langs_count=10&title_color=325784&icon_color=94AE16&bg_color=ffffff&border_color=325784&text_color=173552" />
 
 
 - **Brick Breaker** - Java-based GUI application replicating the classic Brick Breaker game.
