@@ -39,8 +39,9 @@ I'm a Computer Science student, Machine Learning Researcher, and Founder at the 
 
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjz3qz&layout=compact&langs_count=10&title_color=325784&icon_color=94AE16&bg_color=ffffff&border_color=325784&text_color=173552" />
 
-- **Founding Software Engineer** at Trace AI. Building AI tools for doctors.
-- **Software Engineering Intern** at Charlottesville-Albemarle Rescue Squad. Developed a database manager app and optimized an embedded software security system.
+- **Co-Founder** at Trace AI. Building AI tools for government contractors.
+- **Software Engineer** at Bronco AI. Building AI tools for industry.
+- **Member of Technical Staff** at Charlottesville-Albemarle Rescue Squad. Developed a database manager app and optimized an embedded software security system.
 - **Machine Learing Researcher** at UVA's Computational Systems Biology Lab. Developed predictive ML models for cancer on high-performance computing systems.
 - **Software Engineering Intern** at Freddie Mac. Built a python automation tool, contributed to the data privacy framework, and designed a cloud-based document management solution.
 
