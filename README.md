@@ -33,7 +33,7 @@ Thanks for visiting my profile! I'm always looking for new opportunities to lear
 </a>
 <br/><br/>
 
-I'm a Computer Science student, Machine Learning Researcher, and Founder at the University of Virginia passionate about leveraging tech for positive change. I'm experienced in building scalable web applications, developing embedded systems, training predictive/generative machine learning models. Currently, I'm exploring AI and software applied towards healthcare and sustainability.
+I'm a Computer Science student, Machine Learning Researcher, and Founder at the University of Virginia passionate about leveraging tech for positive change. I'm experienced in building scalable web applications, developing embedded systems, training predictive/generative machine learning models. Currently, I'm exploring AI and software applied towards real-world problems.
 
 ## Experience 🚀
 
