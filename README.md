@@ -20,6 +20,7 @@ Thanks for visiting my profile! I'm always looking for new opportunities to lear
 
 
 [<img align="right" width="400" alt="Varun's dynamically generated GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vjz3qz&show_icons=true&title_color=598432&icon_color=94AE16&bg_color=ffffff&border_color=598432&text_color=173552"/>](https://github.com/vjz3qz/)
+- **Co-Founder** at Trace AI. Building AI tools for government contractors.
 --->
 
 
@@ -30,7 +31,6 @@ I'm a Computer Science student, Machine Learning Researcher, and Founder at the 
 ## Experience 🚀
 
 
-- **Co-Founder** at Trace AI. Building AI tools for government contractors.
 - **Software Engineer** at Bronco AI. Building AI tools for industry.
 - **Member of Technical Staff** at Charlottesville-Albemarle Rescue Squad. Developed a database manager app and optimized an embedded software security system.
 - **Machine Learing Researcher** at UVA's Computational Systems Biology Lab. Developed predictive ML models for cancer on high-performance computing systems.
