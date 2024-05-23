@@ -26,7 +26,7 @@ Thanks for visiting my profile! I'm always looking for new opportunities to lear
 
 # About Me 👋
 
-I'm a Computer Science student, Machine Learning Researcher, and Founder at the University of Virginia passionate about leveraging tech for positive change. I'm experienced in building scalable web applications, developing embedded systems, training predictive/generative machine learning models. Currently, I'm exploring AI and software applied towards real-world problems.
+I'm a Computer Science student and AI researcher at the University of Virginia passionate about leveraging tech for positive change. I'm experienced in building scalable web applications and training predictive/generative AI models. Currently, I'm exploring AI and software applied towards real-world problems.
 
 ## Experience 🚀
 
@@ -34,7 +34,7 @@ I'm a Computer Science student, Machine Learning Researcher, and Founder at the 
 - **Software Engineer** at Bronco AI. Building AI tools for industry.
 - **Member of Technical Staff** at Charlottesville-Albemarle Rescue Squad. Developed a database manager app and optimized an embedded software security system.
 - **Machine Learing Researcher** at UVA's Computational Systems Biology Lab. Developed predictive ML models for cancer on high-performance computing systems.
-- **Software Engineering Intern** at Freddie Mac. Built a python automation tool, contributed to the data privacy framework, and designed a cloud-based document management solution.
+- **Software Engineering Intern** at Freddie Mac. Built a python internal automation tool, contributed to the data privacy framework, and designed a cloud-based document management solution.
 
 ## Projects 🛠️
 
