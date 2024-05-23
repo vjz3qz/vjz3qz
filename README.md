@@ -36,6 +36,13 @@ I'm a Computer Science student and AI researcher at the University of Virginia p
 - **Machine Learing Researcher** at UVA's Computational Systems Biology Lab. Developed predictive ML models for cancer on high-performance computing systems.
 - **Software Engineering Intern** at Freddie Mac. Built a python internal automation tool, contributed to the data privacy framework, and designed a cloud-based document management solution.
 
+Feel free to reach me at vjz3qz@virginia.edu. 
+
+
+
+<!---
+Always looking for opportunities to learn and make an impact!
+
 ## Projects 🛠️
 
 - **Lingo** - Web app teaching users the language they are trying to learn through conversations with AI.
@@ -43,11 +50,6 @@ I'm a Computer Science student and AI researcher at the University of Virginia p
 - **Leftover Link** - Web app connecting restaurants and homeless shelters for food donations.
 - And many more you can check out on my profile.
 
-You can reach me at vjz3qz@virginia.edu. Always looking for opportunities to learn and make an impact!
-
-
-
-<!---
 
 <a href="https://github.com/vjz3qz">
   <img align="left" alt="Varun's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
