@@ -8,7 +8,7 @@ I'm a third-year student at the University of Virginia studying Computer Science
 - 🌱 I'm currently learning: ```Computer Systems & Organization```, ```Advanced Software Development```, and ```Machine Learning```
 - 💻 I have experience with: Java, Python, JavaScript, C/C++, HTML/CSS, and Bash, as well as frameworks and libraries like React.js, Node.js, Express.js, and pandas.
 - 🤝 I'm looking to collaborate on projects that use technology to make a positive impact on society and the world around us.
-- 📫 You can reach me at vjz3qz@virginia.edu.
+- 📫 You can reach me at varunpasupuleti8@gmail.com.
 
 Thanks for visiting my profile! I'm always looking for new opportunities to learn, collaborate, and make an impact, so feel free to reach out if you'd like to connect.
 👋
@@ -26,17 +26,18 @@ Thanks for visiting my profile! I'm always looking for new opportunities to lear
 
 # About Me 👋
 
-I'm a Computer Science student and AI researcher at the University of Virginia passionate about leveraging tech for positive change. I'm experienced in building scalable web applications and training predictive/generative AI models. Currently, I'm exploring AI and software applied towards real-world problems.
+Hey there! I'm a Software Engineer currently working at Palantir. I graduated from the University of Virginia with Bachelor's of Science in Computer Science, and I'm experienced in building scalable web applications and training predictive/generative AI models. I love applying AI and software to hard problems.
 
 ## Experience 🚀
 
 
-- **Software Engineer** at Bronco AI. Building AI tools for industry.
+- **Software Engineer** at Palantir. Securing our nation.
+- **Software Engineer** at Bronco AI. Built an AI verification engineer.
 - **Member of Technical Staff** at Charlottesville-Albemarle Rescue Squad. Developed a database manager app and optimized an embedded software security system.
 - **Machine Learing Researcher** at UVA's Computational Systems Biology Lab. Developed predictive ML models for cancer on high-performance computing systems.
 - **Software Engineering Intern** at Freddie Mac. Built a python internal automation tool, contributed to the data privacy framework, and designed a cloud-based document management solution.
 
-Feel free to reach me at vjz3qz@virginia.edu. 
+Feel free to reach me at varunpasupuleti8@gmail.com. 
 
 
 
