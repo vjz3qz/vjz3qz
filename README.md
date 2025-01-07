@@ -21,16 +21,20 @@ Thanks for visiting my profile! I'm always looking for new opportunities to lear
 
 [<img align="right" width="400" alt="Varun's dynamically generated GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vjz3qz&show_icons=true&title_color=598432&icon_color=94AE16&bg_color=ffffff&border_color=598432&text_color=173552"/>](https://github.com/vjz3qz/)
 - **Co-Founder** at Trace AI. Building AI tools for government contractors.
+
+# About Me 👋 
+
+## Experience 🚀
 --->
 
 
-# About Me 👋
+## About Me
 
 I love applying AI and software to hard problems.
 
 I'm a forward deployed software engineer currently working at Palantir, and I graduated from the University of Virginia with Bachelor's of Science in Computer Science. I'm experienced in building scalable web applications and training predictive/generative AI models. 
 
-## Experience 🚀
+## Experience
 
 
 - **Software Engineer** at Palantir. Securing our nation.
