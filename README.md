@@ -26,7 +26,9 @@ Thanks for visiting my profile! I'm always looking for new opportunities to lear
 
 # About Me 👋
 
-Hey there! I'm a Software Engineer currently working at Palantir. I graduated from the University of Virginia with Bachelor's of Science in Computer Science, and I'm experienced in building scalable web applications and training predictive/generative AI models. I love applying AI and software to hard problems.
+I love applying AI and software to hard problems.
+
+I'm a Software Engineer currently working at Palantir, and I graduated from the University of Virginia with Bachelor's of Science in Computer Science. I'm experienced in building scalable web applications and training predictive/generative AI models. 
 
 ## Experience 🚀
 
