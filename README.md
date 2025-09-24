@@ -7,7 +7,7 @@ I'm currently working as a Forward Deployed Software Engineer at Palantir, and I
 ## Experience
 
 
-- **Forward Deployed Software Engineer** at Palantir. Securing our nation.
+- **Forward Deployed Software Engineer** at Palantir. Building an AI-native EHR for the government.
 - **Machine Learning Research Assistant** at UVA's Machine Intelligence Research Association. Orchestrated a multi-agent system for swift data retrival on the FloodWatch platform.
 - **Software Engineer** at Bronco AI. Architected and built an AI verification engineer, end-to-end.
 - **Member of Technical Staff** at Charlottesville-Albemarle Rescue Squad. Developed a database manager app and optimized an embedded software security system.
